@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasTreeBuilder", "ChristmasTreeBuilder\ChristmasTreeBuilder.csproj", "{546DF904-B802-4FA8-8DEC-293AE33D4731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasTreeBuilderTests", "TreeBuilderTests\ChristmasTreeBuilderTests.csproj", "{68A304B6-055B-4F4B-868B-DBFA990F031A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{546DF904-B802-4FA8-8DEC-293AE33D4731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546DF904-B802-4FA8-8DEC-293AE33D4731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546DF904-B802-4FA8-8DEC-293AE33D4731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546DF904-B802-4FA8-8DEC-293AE33D4731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A304B6-055B-4F4B-868B-DBFA990F031A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A304B6-055B-4F4B-868B-DBFA990F031A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A304B6-055B-4F4B-868B-DBFA990F031A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A304B6-055B-4F4B-868B-DBFA990F031A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06E77A21-3A6F-4659-8AF6-BAA84CBFB412}
+	EndGlobalSection
+EndGlobal
